@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="mk.ukim.finki.SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-05-25T16:04:07" hostname="DESKTOP-2OTSN76" time="0.016">
-  <properties/>
-  <testcase name="checkMultipleConditions()" classname="mk.ukim.finki.SILab2Test" time="0.013"/>
-  <testcase name="checkEveryBranch()" classname="mk.ukim.finki.SILab2Test" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
